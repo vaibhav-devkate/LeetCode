@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhav-devkate/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vaibhav-devkate/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2846-robot-collisions) |
 ## Sorting
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/vaibhav-devkate/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhav-devkate/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/vaibhav-devkate/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
