@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/vaibhav-devkate/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vaibhav-devkate/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/vaibhav-devkate/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/vaibhav-devkate/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhav-devkate/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/vaibhav-devkate/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/vaibhav-devkate/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
