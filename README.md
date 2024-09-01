@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhav-devkate/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2035-count-sub-islands](https://github.com/vaibhav-devkate/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vaibhav-devkate/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhav-devkate/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/vaibhav-devkate/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2846-robot-collisions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/vaibhav-devkate/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/vaibhav-devkate/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Two Pointers
 |  |
