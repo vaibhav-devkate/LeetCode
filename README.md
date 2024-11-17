@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/vaibhav-devkate/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/vaibhav-devkate/LeetCode/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/vaibhav-devkate/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav-devkate/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/vaibhav-devkate/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vaibhav-devkate/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vaibhav-devkate/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
@@ -318,4 +322,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vaibhav-devkate/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
