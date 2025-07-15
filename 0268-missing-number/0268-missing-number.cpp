@@ -10,7 +10,9 @@ public:
                 return i;
             }
         }
-
+        if (nums[0] != 0) {
+            missing = 0;
+        }
 
         if (missing == -1) {
             missing = n;
