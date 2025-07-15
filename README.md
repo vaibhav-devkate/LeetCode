@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhav-devkate/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav-devkate/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/vaibhav-devkate/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/vaibhav-devkate/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/vaibhav-devkate/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/0948-sort-an-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhav-devkate/LeetCode/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0726-number-of-atoms](https://github.com/vaibhav-devkate/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/vaibhav-devkate/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vaibhav-devkate/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhav-devkate/LeetCode/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/vaibhav-devkate/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/vaibhav-devkate/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vaibhav-devkate/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/vaibhav-devkate/LeetCode/tree/master/0476-number-complement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhav-devkate/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
