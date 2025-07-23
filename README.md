@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhav-devkate/LeetCode/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/vaibhav-devkate/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vaibhav-devkate/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/vaibhav-devkate/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vaibhav-devkate/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vaibhav-devkate/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/vaibhav-devkate/LeetCode/tree/master/0726-number-of-atoms) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vaibhav-devkate/LeetCode/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/vaibhav-devkate/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0726-number-of-atoms](https://github.com/vaibhav-devkate/LeetCode/tree/master/0726-number-of-atoms) |
