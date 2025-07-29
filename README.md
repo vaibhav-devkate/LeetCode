@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhav-devkate/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/vaibhav-devkate/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhav-devkate/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav-devkate/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhav-devkate/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/vaibhav-devkate/LeetCode/tree/master/0031-next-permutation) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
