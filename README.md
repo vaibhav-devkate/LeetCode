@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaibhav-devkate/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav-devkate/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vaibhav-devkate/LeetCode/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/vaibhav-devkate/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/vaibhav-devkate/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhav-devkate/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vaibhav-devkate/LeetCode/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/vaibhav-devkate/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-devkate/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
