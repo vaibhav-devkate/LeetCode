@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vaibhav-devkate/LeetCode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/vaibhav-devkate/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vaibhav-devkate/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-devkate/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/vaibhav-devkate/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vaibhav-devkate/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vaibhav-devkate/LeetCode/tree/master/0664-strange-printer) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhav-devkate/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vaibhav-devkate/LeetCode/tree/master/0031-next-permutation) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-devkate/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/vaibhav-devkate/LeetCode/tree/master/1894-merge-strings-alternately) |
