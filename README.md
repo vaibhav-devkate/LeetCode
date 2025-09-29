@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/vaibhav-devkate/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav-devkate/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/vaibhav-devkate/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vaibhav-devkate/LeetCode/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/vaibhav-devkate/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vaibhav-devkate/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vaibhav-devkate/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
