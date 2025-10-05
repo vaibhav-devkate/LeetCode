@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaibhav-devkate/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vaibhav-devkate/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-devkate/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vaibhav-devkate/LeetCode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/vaibhav-devkate/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vaibhav-devkate/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/vaibhav-devkate/LeetCode/tree/master/0664-strange-printer) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vaibhav-devkate/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/vaibhav-devkate/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-devkate/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vaibhav-devkate/LeetCode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/vaibhav-devkate/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaibhav-devkate/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav-devkate/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/vaibhav-devkate/LeetCode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/vaibhav-devkate/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/vaibhav-devkate/LeetCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/vaibhav-devkate/LeetCode/tree/master/1196-filling-bookcase-shelves) |
