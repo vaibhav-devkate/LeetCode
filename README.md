@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/vaibhav-devkate/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1046-max-consecutive-ones-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/vaibhav-devkate/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhav-devkate/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1240-stone-game-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaibhav-devkate/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vaibhav-devkate/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vaibhav-devkate/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-devkate/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vaibhav-devkate/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/vaibhav-devkate/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-devkate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
