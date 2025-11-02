@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/vaibhav-devkate/LeetCode/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vaibhav-devkate/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/vaibhav-devkate/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vaibhav-devkate/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vaibhav-devkate/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/vaibhav-devkate/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vaibhav-devkate/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhav-devkate/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/vaibhav-devkate/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhav-devkate/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vaibhav-devkate/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/vaibhav-devkate/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/vaibhav-devkate/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vaibhav-devkate/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaibhav-devkate/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vaibhav-devkate/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/vaibhav-devkate/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhav-devkate/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/vaibhav-devkate/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/vaibhav-devkate/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaibhav-devkate/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
